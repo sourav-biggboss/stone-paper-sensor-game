@@ -1,2 +1,9 @@
 # stone-paper-sensor-game
-this is Sone Paper Sensor Game on web
+This is Sone Paper Sensor Game on web
+
+
+## technology
+
+(js) TS,HTML
+
+- Runes on chrome
